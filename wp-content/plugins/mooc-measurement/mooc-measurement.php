@@ -1,7 +1,7 @@
 <?php
 /*
   Plugin Name: Mooc Measurement
-  Plugin URI:
+  Plugin URI: https://github.com/bertica/moocMeasurement
   Description: A plugin that allows measure different MOOCs
   Version: 1.0
   Author: Berta Besteiro
