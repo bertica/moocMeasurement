@@ -1,0 +1,209 @@
+#project_ini h3.mooc_title{
+    /*margin:0 0 3%;*/
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top:0;
+    padding-top: 25px;
+}
+#project_ini form#mooc_measurement_form{
+    padding: 0 2%;
+    background: rgb(241,241,241);
+    height: 100% !important;
+    margin-bottom: 0;
+}
+#project_ini form#mooc_measurement_form h4{
+    margin: 25px 0 0 0;
+}
+#project_ini form#mooc_measurement_form #button_home{
+    margin: 25px 0 0 0;
+}
+#project_ini form#mooc_measurement_form hr{
+    background:#000;
+    padding: 0;
+}
+#project_ini label{
+    /*font-size: 0.9em;*/
+    /*vertical-align: bottom;*/
+    height: 30px;
+    line-height: 30px;
+}
+#project_ini .ancho_total{
+    width:100%;
+}
+#project_ini .dcha{
+    text-align: right;
+}
+#project_ini .izda{
+    text-align: left;
+}
+#project_ini form input[type="text"], 
+#project_ini form input[type="number"], 
+#project_ini form input[type="date"],  
+#project_ini form select{
+    overflow: hidden;
+    height: 28px;
+    border: 1px solid #ccc;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+#project_ini form div{
+    padding: 1px 0;
+}
+#project_ini form input[type="checkbox"]{
+    border-radius:0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    height: 15px;
+}
+#project_ini form #participants_level input[type="checkbox"]{
+    margin: 0;
+}
+#project_ini div.form-group.moocmeas{
+    padding-left: 0;
+    padding-right: 0;
+}
+#project_ini input#automatic_assesment{
+    margin-left:30px;
+}
+#project_ini input#license_download{
+    margin-left:10px;
+}
+#project_ini .caja{
+    border: 1px solid #000;
+    border-radius:3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+#project_ini .second_line{
+    margin-top: -10px;
+}
+#project_ini #grupo_abajo{
+    padding-top:20px;
+}
+#project_ini label.holder{
+    color:#ccc;
+    padding-left: 0 !important;
+}
+#project_ini div#moocmeasurement_comparation{
+    background: rgb(241,241,241);
+    overflow: hidden;
+}
+#project_ini div#moocmeasurement_comparation h4{
+    margin-bottom: 0;
+    margin-top: 0.5em;
+    padding-bottom: 0;
+}
+#project_ini #comparation_form{
+    padding: 0.5em 1em;
+    overflow: hidden;
+}
+#project_ini #comparation_form select{
+    margin: 0 0.5em 0.5em 0.5em !important;
+}
+#project_ini div#selectores{
+    padding:0;
+}
+#project_ini #compare{
+    padding-top:1em;
+}
+#project_ini #type{
+    padding:0;
+}
+#project_ini #type input{
+    margin-left:0.8em;
+    margin-right:0.8em;
+}
+#project_ini input{
+    line-height: normal !important;
+}
+
+#project_ini #newmooc{
+    padding:0.5em;
+}
+#project_ini .oculto{
+    display: none;
+}
+#project_ini .muestra{
+    display: block;
+}
+#project_ini a#newmooc{
+    cursor: pointer;
+}
+#project_ini #button_home button{
+    cursor: pointer;
+}
+#project_ini div#criterios{
+    padding-left: 0;
+}
+#project_ini .caja img{
+    width: 25px;
+    padding-right: 0;
+    padding-top: 9px;
+}
+#project_ini div.caja.criterios{
+    margin:0 0 0 1em;
+    overflow-y: scroll;
+    padding: 1em;
+    height:150px;
+}
+#project_ini div.caja.criterios input{
+    margin-right: 0.5em;
+}
+#project_ini input.errorClass{
+    background: rgb(255, 172, 172);
+}
+#project_ini #errorBox{
+    color:red;
+    font-size: smaller;
+}
+#project_ini #errorBox li,#errorBox li label{
+    margin:0;
+}
+#project_ini .caja.criterios label{
+    font-weight: normal;
+    font-size: inherit;
+    height: inherit;
+    line-height: inherit;
+}
+#project_ini .caja.criterios input{
+                      margin-left: 0.3em;
+                      margin-top: -0.25em;
+}
+#project_ini .canvas{
+    margin-left:auto;
+    margin-right:auto;
+    display: block;
+    margin-top: 20px;
+}
+#project_ini #type, #compare button{
+    font-size: 0.9em;
+}
+#project_ini #error{
+    text-align: center;
+    color: #f00;
+    font-size:1.2em;
+}
+#project_ini #license_material div, 
+#project_ini #assesments div, 
+#project_ini #final_certificate_group div, 
+#project_ini #official_final_certificate_group div, 
+#project_ini #license_platform_group div,
+#project_ini #open_official_group div,
+#project_ini #open_course_group div,
+#project_ini #guide_group div{
+    display: inline-block;
+}
+#project_ini #license_material div label, 
+#project_ini #assesments div label{
+    margin-right: 2em;
+}
+#project_ini #final_certificate_group div label,
+#project_ini #official_final_certificate_group div label, 
+#project_ini #license_platform_group div label,
+#project_ini #open_official_group div label,
+#project_ini #open_course_group div label,
+#project_ini #guide_group div label{
+    margin-right: 3em;
+    margin-left: 1em;
+}
